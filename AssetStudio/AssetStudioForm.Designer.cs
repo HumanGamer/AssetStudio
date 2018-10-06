@@ -1058,7 +1058,7 @@
         private System.Windows.Forms.ToolStripComboBox assetGroupOptions;
         private System.Windows.Forms.ToolStripMenuItem openAfterExport;
         private System.Windows.Forms.ToolStripMenuItem showExpOpt;
-        private GOHierarchy sceneTreeView;
+        private AssetStudio.GOHierarchy sceneTreeView;
         private System.Windows.Forms.ToolStripMenuItem debugMenuItem;
         private System.Windows.Forms.ToolStripMenuItem buildClassStructuresMenuItem;
         private System.Windows.Forms.ToolStripMenuItem dontLoadAssetsMenuItem;
